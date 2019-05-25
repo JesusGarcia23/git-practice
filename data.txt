@@ -4,3 +4,4 @@ Favorite Color: Yellow
 Car: No
 Plane: No
 Boat: No
+Storage: No
